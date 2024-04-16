@@ -1,6 +1,6 @@
 def str_upper(some_str):
     """
-    Return a string with all uppercase
+    Return 'some_str' in upper case.
     """
     return some_str.upper()
 
